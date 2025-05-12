@@ -76,3 +76,6 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
   </li>
 </ul>
 
+# Wireframing in Practice
+During one client project redesign, our team nearly built a dashboard cluttered with buttons – until wireframes showed users were drowning in options. I’ll never forget watching a client tester repeatedly miss the "Submit Report" button during sessions. We simplified the layout, hiding secondary tools in clean dropdowns.
+
